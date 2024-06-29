@@ -1,0 +1,44 @@
+header{
+    text-align: end;
+    background-color: #333;
+    font-size: large;
+    margin: 10px;
+    padding: 15px;
+  }
+header a{
+    color: #fff;
+    padding: 2px;
+    text-decoration: none;
+}
+header input[type="button"] {
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    width: 50px;
+}
+main{
+    border: solid 1px #333;
+    border-radius: 10px;
+}
+.forma{
+    text-align: center;
+}
+.btn{
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+}
+footer a {
+    padding: 2px;
+}
